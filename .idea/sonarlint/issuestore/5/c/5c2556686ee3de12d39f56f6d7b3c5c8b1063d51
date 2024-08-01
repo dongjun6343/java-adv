@@ -1,0 +1,14 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÔÇÑÂ2J$9ba8d345-1269-4937-9425-6a84fdfd22fe
+¬
+java:S1192
+"dDefine a constant instead of duplicating this literal "Thread.currentThread().getName() = " 4 times.(®ÌãÜüÿÿÿÿ8‹˜ÑÂ2J$fef45363-186c-404a-8486-2b34e6c9b805
+r	java:S106
+"+Replace this use of System.out by a logger.(®ÌãÜüÿÿÿÿ8˜ÑÂ2J$46c483ad-1c2c-42fe-acd4-6c96439717ab
+m	java:S106"+Replace this use of System.out by a logger.(×™À8˜ÑÂ2J$694df35a-8c35-4424-8af6-f8f7cd400709
+z
+java:S6881"2Use virtual threads for heavy blocking operations.(Çè«ùÿÿÿÿ8¢ÓÂ2J$76932766-9f53-45d8-8054-ad54f9653832
+r	java:S106"+Replace this use of System.out by a logger.(Í¸¶”ûÿÿÿÿ8˜ÑÂ2J$5eaf9e96-e629-4931-8718-f37d1bdf361a
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8×ÇÑÂ2J$17ec71b1-31ad-4574-b4db-0825161b7345
+m	java:S106"+Replace this use of System.out by a logger.(Çÿ™¬8ÙÒÂ2J$280f1c9b-3128-4945-ad58-5783ae1fb81c
