@@ -24,8 +24,6 @@ S
 #src/thread/start/HelloRunnable.java,1/2/12e55600a4c4a9650056893b3fda506f81b4559b
 W
 'src/thread/start/HelloRunnableMain.java,0/1/01f45742798eaaa60fb6c7648d534751671bdb3e
-N
-src/thread/start/MyLogger.java,7/0/70cbeb69dcaf183dffd76ce34801bc293c999b74
 F
 src/util/MyLogger.java,5/b/5b3ac9248f799dcf2c8351d0902980d4a10cf6e3
 J
@@ -44,8 +42,6 @@ _
 /src/thread/start/inner/InnerRunnableMainV3.java,0/1/01d6a854c49bc4c25c0dfb33fd20be605aef238d
 _
 /src/thread/start/inner/InnerRunnableMainV4.java,e/1/e1999d27d2be4d6d1520512d51addd1c21d4fbcb
-X
-(src/thread/start/test/StartTestMain.java,5/8/584f115044490a70eeee15f653f953594df181f2
 Y
 )src/thread/start/test/StartTest1Main.java,3/2/321b2574dddc75e7a47759481a853508c07119e3
 Y
@@ -104,3 +100,9 @@ Q.idea/sonarlint/securityhotspotstore/0/1/01f45742798eaaa60fb6c7648d534751671bdb
 Q.idea/sonarlint/securityhotspotstore/a/e/ae7d0cb80d4e09880babe4a890a7d73db5e941c0,4/5/450bbecb8c29263c334c7eeb2181d086cc7d8ce3
 Å
 Q.idea/sonarlint/securityhotspotstore/1/2/12e55600a4c4a9650056893b3fda506f81b4559b,c/5/c5a7b96e85cd9a9a66c54d4bc884e4bf86d6a44d
+V
+&src/thread/control/ThreadInfoMain.java,a/6/a6fe222125c9a1836a08b53db17546f8bdfe08fd
+\
+,src/thread/control/CheckedExceptionMain.java,0/e/0e2745821bc06cff9124daf1cd681a637279f95a
+W
+'src/thread/control/join/JoinMainV0.java,8/e/8e49ba44ced61265c29d3d08e240610ed52c1f7a
